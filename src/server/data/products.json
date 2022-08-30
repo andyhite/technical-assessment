@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Pencil", "price": 5.0, "weight": 0.1 },
+  { "id": 2, "name": "Pen", "price": 10.0, "weight": 0.12 },
+  { "id": 3, "name": "Notebook", "price": 10.0, "weight": 0.2 },
+  { "id": 4, "name": "Backpack", "price": 25.0, "weight": 1.0 }
+]
